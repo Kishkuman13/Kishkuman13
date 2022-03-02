@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Utah, USA.
+#### I'm a Full-Stack Developer and Graphic Designer working in Southern Utah.
 
 - 🏢 I'm currently working at **Southwest Plumbing Supply**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.less`
